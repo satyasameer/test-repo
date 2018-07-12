@@ -1,4 +1,4 @@
-# apcera-prometheus-exporter
+# Apcera-Prometheus-Exporter
 
 The exporter is a standalone server. The prometheus queries for the exporter for metrics. The Exporter queries the Apcera Metrics API and reutrns the metrics on /metrics endpoint.
 
